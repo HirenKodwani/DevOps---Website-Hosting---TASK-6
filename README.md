@@ -13,4 +13,4 @@ This repository contains a simple static HTML website deployed using GitHub Page
 5. Accessed live website from GitHub Pages link
 
 ## Live Website Link:
-
+https://hirenkodwani.github.io/DevOps---Website-Hosting---TASK-6/
